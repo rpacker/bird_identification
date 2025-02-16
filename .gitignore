@@ -1,0 +1,5 @@
+.env
+.aider*
+venv
+saved_images
+source_videos
